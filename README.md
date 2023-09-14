@@ -27,7 +27,7 @@ I'm a Full Stack Developer with expertise in Django and currently learning Flutt
 
 ### About Me:
 
-I'm passionate about coding and building awesome web and mobile applications. Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
+I'm passionate about 👨‍💻 coding and building awesome web and mobile applications. Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
 
 
 ### Technologies I Work With
