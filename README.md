@@ -9,10 +9,12 @@ I'm a Full Stack Developer with expertise in Django and currently learning Flutt
 
 ### Connect with Me:
 
-[<img align="left" alt="Instagram" width="80px" src="Instagram.png" />](https://www.instagram.com/muhammedshibilm_/)
-[<img align="left" alt="Twitter" width="80px" src="twitter.png" />](https://twitter.com/muhammedshibilm_)
-[<img align="left" alt="Medium" width="80px" src="medium.png" />](https://medium.com/@muhammedshibilm)
+[<img align="left" alt="Instagram" width="50px" src="Instagram.png" />](https://www.instagram.com/muhammedshibilm_/)
+[<img align="left" alt="Twitter" width="50px" src="twitter.png" />](https://twitter.com/muhammedshibilm_)
+[<img align="left" alt="Medium" width="50px" src="medium.png" />](https://medium.com/@muhammedshibilm)
 
+<br />
+<br />
 <br />
 
 ### GitHub Stats:
