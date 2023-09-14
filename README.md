@@ -21,8 +21,8 @@ I'm a Full Stack Developer with expertise in Django and currently learning Flutt
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammedshibilm?label=Followers&logo=github&style=social)](https://github.com/muhammedshibilm)
 [![GitHub stars](https://img.shields.io/github/stars/muhammedshibilm?logo=github)](https://github.com/muhammedshibilm)
-[![GitHub commits](https://img.shields.io/github/commit-activity/w/muhammedshibilm?logo=github)](https://github.com/muhammedshibilm)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muhammedshibilm?logo=github)](https://github.com/muhammedshibilm)
+
+[![GitHub last commit](https://img.shields.io/github/commits-since/muhammedshibilm/{version}.svg)
 ### About Me:
 
 I'm passionate about coding and building awesome web and mobile applications. Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
