@@ -9,7 +9,7 @@ I'm a Full Stack Developer with expertise in Django and currently learning Flutt
 
 ### Connect with Me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="Instagram.png" />](https://www.linkedin.com/in/muhammed-shibil-m-243381229)
+[<img align="left" alt="Instagram" width="80px" src="Instagram.png" />](https://www.instagram.com/muhammedshibilm_/)
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/twitter.svg" />](https://twitter.com/muhammedshibilm_)
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/github.svg" />](https://github.com/muhammedshibilm)
 
