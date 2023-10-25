@@ -42,3 +42,5 @@ I'm passionate about 👨‍💻 coding and building awesome web and mobile appl
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![An image of @muhammedshibilm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammedshibilm)](https://holopin.io/@muhammedshibilm)
