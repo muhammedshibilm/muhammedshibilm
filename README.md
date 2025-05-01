@@ -56,7 +56,7 @@ I'm a Full Stack Developer with expertise in Django and currently learning Flutt
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedshibilm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&area_color=1c1917&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/muhammedshibilm)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibilm&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/muhammedshibilm)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibilm&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/muhammedshibilm)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/muhammedshibilm?label=Followers&logo=github&style=social)](https://github.com/muhammedshibilm)
@@ -68,6 +68,7 @@ I'm a Full Stack Developer with expertise in Django and currently learning Flutt
 ### About Me:
 
 I'm passionate about 👨‍💻 coding and building awesome web and mobile applications. Feel free to explore my repositories and reach out if you have any questions or collaborations in mind!
+
 
 ### 🛠 Technologies I Work With
 
@@ -110,8 +111,10 @@ I'm passionate about 👨‍💻 coding and building awesome web and mobile appl
 <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>  
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>  
 <a href="https://www.heroku.com/" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku"/></a>  
-<a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean"/></a>  
+<a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean"/></a>
+
 
 ---
+
 
 [![An image of @muhammedshibilm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammedshibilm)](https://holopin.io/@muhammedshibilm)
