@@ -146,66 +146,42 @@ I'm passionate about 👨‍💻 coding and building awesome web and mobile appl
 
 ### Connect with Me:
 
-<table align="left" cellspacing="15" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <a href="https://www.behance.com/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="32" height="32" alt="Behance" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.dev.to/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="32" height="32" alt="Dev.to" />
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.com/users/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="32" height="32" alt="Discord" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.facebook.com/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32" height="32" alt="Facebook" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.github.com/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" height="32" alt="GitHub" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.gitlab.com/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="32" height="32" alt="GitLab" />
-      </a>
-    </td>
-    <td>
-      <a href="http://www.instagram.com/muhammedshibilm_" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" height="32" alt="Instagram" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="http://www.medium.com/muhammedshibil" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="32" height="32" alt="Medium" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.stackoverflow.com/users/muhammedshibilm" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="32" height="32" alt="Stack Overflow" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.x.com/muhammedshibil_" target="_blank" rel="noreferrer">
-        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32" alt="X (Twitter)" />
-      </a>
-    </td>
-  </tr>
-</table>
 
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.behance.com/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="32" height="32" alt="Behance" />
+  </a>
+  <a href="https://www.dev.to/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="32" height="32" alt="Dev.to" />
+  </a>
+  <a href="https://discord.com/users/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="32" height="32" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="32" height="32" alt="Facebook" />
+  </a>
+  <a href="https://www.github.com/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.gitlab.com/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="32" height="32" alt="GitLab" />
+  </a>
+  <a href="http://www.instagram.com/muhammedshibilm_" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="32" height="32" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" alt="LinkedIn" />
+  </a>
+  <a href="http://www.medium.com/muhammedshibil" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="32" height="32" alt="Medium" />
+  </a>
+  <a href="https://www.stackoverflow.com/users/muhammedshibilm" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="32" height="32" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.x.com/muhammedshibil_" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="32" height="32" alt="X (Twitter)" />
+  </a>
+</div>
 
 <br/>
 <br/>
