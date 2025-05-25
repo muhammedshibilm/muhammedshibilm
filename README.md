@@ -128,18 +128,12 @@ I'm passionate about 👨‍💻 coding and building awesome web and mobile appl
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  </a>
+
+
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku"/>
   </a>
-  <a href="https://www.digitalocean.com/" target="_blank">
-    <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
-  </a>
+
 </div>
 
 </br>
