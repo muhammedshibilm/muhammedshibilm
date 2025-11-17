@@ -19,7 +19,6 @@ I'm passionate about 👨‍💻 coding and building awesome web and mobile appl
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedshibilm&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/muhammedshibilm)  
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=muhammedshibilm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/muhammedshibilm)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedshibilm&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&area_color=1c1917&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/muhammedshibilm)
 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibilm&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/muhammedshibilm)
