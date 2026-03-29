@@ -1,28 +1,66 @@
-### hey, I'm Shibil 👋
+### Hey, I'm Shibil 👋
 
-Backend & IoT engineer from Kerala. I build data pipelines, real-time systems, and the occasional app people actually use.
+Backend & IoT Engineer focused on **real-time data pipelines and monitoring systems**
 
----
-
-🔭 &nbsp;Working on IoT data pipelines and flood monitoring systems  
-🌱 &nbsp;Getting deeper into Flutter & AI-backed backends  
-📦 &nbsp;Published [Speedy](https://play.google.com/store/apps/details?id=tech.muhammedshibilm.speedy) on Play Store — offline GPS speedometer  
-✍️ &nbsp;Sometimes write at [muhammedshibilm.tech](https://muhammedshibilm.tech)  
+I build systems that ingest, process, and analyze data from distributed devices — designed for **low-latency, reliability, and imperfect network conditions**.
 
 ---
 
-**Tech I reach for most:**
+## ⚙️ What I Actually Do
 
-`Python` `Django` `FastAPI` `Flutter` `React` `InfluxDB` `MQTT` `Docker` `PostgreSQL`
-
----
-
-| | |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=muhammedshibilm&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=stars,prs,issues) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibilm&langs_count=5&theme=tokyonight&hide_border=true&layout=compact) |
+* Design **event-driven IoT pipelines** using MQTT
+* Build **time-series data systems** with InfluxDB
+* Develop **high-performance APIs** with FastAPI & Django
+* Handle **real-time communication** (WebSockets, streaming)
+* Deploy systems using Docker in Linux environments
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammedshibilm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://muhammedshibilm.tech)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammedshibilm321@gmail.com)
+## 🚀 Current Work
+
+* Flood monitoring system
+  → Real-time sensor ingestion
+  → Time-series storage + querying
+  → Alerting & anomaly detection
+
+* AI-backed backend systems
+  → RAG pipelines for document understanding
+  → Medical data extraction & analysis
+
+---
+
+## 📦 Notable Project
+
+### Speedy — Offline GPS Speedometer
+
+* Fully offline (no API dependency)
+* Optimized for low connectivity environments
+* Real-time speed + trip tracking
+* Built with Flutter
+
+🔗 https://play.google.com/store/apps/details?id=tech.muhammedshibilm.speedy
+
+---
+
+## 🧠 Engineering Focus
+
+Instead of just using tools, I focus on:
+
+* Data flow design (ingestion → processing → storage → query)
+* System reliability under unstable networks
+* Efficient handling of continuous data streams
+* Backend systems that scale with device count
+
+---
+
+## 📊 GitHub Stats
+
+[stats here]
+
+---
+
+## 🔗 Connect
+
+* Portfolio → https://muhammedshibilm.tech
+* LinkedIn → https://linkedin.com/in/muhammedshibilm
+* Email → [muhammedshibilm321@gmail.com](mailto:muhammedshibilm321@gmail.com)
