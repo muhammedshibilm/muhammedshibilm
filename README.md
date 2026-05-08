@@ -6,7 +6,7 @@ I build systems that ingest, process, and analyze data from distributed devices 
 
 ---
 
-## ⚙️ What I Actually Do
+##  What I Actually Do
 
 * Design **event-driven IoT pipelines** using MQTT
 * Build **time-series data systems** with InfluxDB
@@ -16,7 +16,7 @@ I build systems that ingest, process, and analyze data from distributed devices 
 
 ---
 
-## 🚀 Current Work
+##  Current Work
 
 * Flood monitoring system
   → Real-time sensor ingestion
@@ -29,7 +29,7 @@ I build systems that ingest, process, and analyze data from distributed devices 
 
 ---
 
-## 📦 Notable Project
+##  Notable Project
 
 ### Speedy — Offline GPS Speedometer
 
@@ -42,7 +42,7 @@ I build systems that ingest, process, and analyze data from distributed devices 
 
 ---
 
-## 🧠 Engineering Focus
+##  Engineering Focus
 
 Instead of just using tools, I focus on:
 
@@ -59,7 +59,7 @@ Instead of just using tools, I focus on:
 
 ---
 
-## 🔗 Connect
+##  Connect
 
 * Portfolio → https://muhammedshibilm.tech
 * LinkedIn → https://linkedin.com/in/muhammedshibilm
