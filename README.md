@@ -16,46 +16,14 @@ I build systems that ingest, process, and analyze data from distributed devices 
 
 ---
 
-##  Current Work
 
-* Flood monitoring system
-  → Real-time sensor ingestion
-  → Time-series storage + querying
-  → Alerting & anomaly detection
 
-* AI-backed backend systems
-  → RAG pipelines for document understanding
-  → Medical data extraction & analysis
-
----
-
-##  Notable Project
-
-### Speedy — Offline GPS Speedometer
-
-* Fully offline (no API dependency)
-* Optimized for low connectivity environments
-* Real-time speed + trip tracking
-* Built with Flutter
-
-🔗 https://play.google.com/store/apps/details?id=tech.muhammedshibilm.speedy
-
----
-
-##  Engineering Focus
-
-Instead of just using tools, I focus on:
-
-* Data flow design (ingestion → processing → storage → query)
-* System reliability under unstable networks
-* Efficient handling of continuous data streams
-* Backend systems that scale with device count
-
----
 
 ## 📊 GitHub Stats
 
-[stats here]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedshibilm&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibilm&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
