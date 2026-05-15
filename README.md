@@ -21,9 +21,9 @@ I build systems that ingest, process, and analyze data from distributed devices 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammedshibilm&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=muhammedshibilm&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedshibilm&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedshibilm&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
