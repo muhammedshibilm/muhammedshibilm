@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Shibil M</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>, I'm Muhammed Shibil M</h1>
 <h3 align="center">Developer • Builder • Always shipping something</h3>
 
 <p align="center">
@@ -17,7 +17,6 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -41,7 +40,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-</p>
 
 <!-- 👆 Edit this row to match what you actually use. Full badge list & names: https://github.com/Ileriayo/markdown-badges -->
 
@@ -53,6 +51,7 @@
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammedshibilm&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedshibilm&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muhammedshibilm&theme=tokyonight&hide_border=true" />
 </p>
@@ -60,11 +59,14 @@
 ---
 
 ### 🌐 More
-
 <p align="center">
   <a href="https://websitelaunches.com/site/muhammedshibilm.tech" target="_blank" rel="noopener">
     <img src="https://websitelaunches.com/badge/muhammedshibilm.tech.svg?theme=dark" alt="Established online - Public launch record" width="255" height="55">
   </a>
 </p>
-
-<p align="center"><i>⚡ Open to interesting projects and collaborations — reach out anytime.</i></p>
+<p align="center">
+  <a href="https://me.developers.google.com/u/me" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white" />
+  </a>
+</p>
+<p align="center"><i> ⚡ Open to interesting projects and collaborations — reach out anytime.</i></p>
