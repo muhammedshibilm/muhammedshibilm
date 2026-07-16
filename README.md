@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>, I'm Muhammed Shibil M</h1>
-<h3 align="center">Developer • Builder • Always shipping something</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA5FF&center=true&vCenter=true&width=500&lines=Developer;Builder;Always+shipping+something..." alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://muhammedshibilm.tech" target="_blank">
@@ -62,6 +67,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=muhammedshibilm&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 ---
 
